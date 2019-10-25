@@ -1,0 +1,9 @@
+﻿  main.c
+main.c(88): warning C4778: 'printf' : unterminated format string '%'
+  Generating code
+  1 of 6 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Revision-C.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Revision-C\Release\Revision-C.exe
+  Revision-C.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Revision-C\Release\Revision-C.pdb (Full PDB)

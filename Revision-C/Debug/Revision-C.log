@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\hp\documents\visual studio 2015\projects\revision-c\revision-c\main.c(43): warning C4778: 'printf' : unterminated format string '%'
+c:\users\hp\documents\visual studio 2015\projects\revision-c\revision-c\main.c(49): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\hp\documents\visual studio 2015\projects\revision-c\revision-c\main.c(53): warning C4778: 'printf' : unterminated format string '%'
+  Revision-C.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Revision-C\Debug\Revision-C.exe
+  Revision-C.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Revision-C\Debug\Revision-C.pdb (Full PDB)
